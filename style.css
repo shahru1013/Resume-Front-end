@@ -215,7 +215,8 @@ html,body{
 }
 .info{
 	margin-left: 180px;
-	margin-top: 30px;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 .info > h1{
 	letter-spacing: 2px;
