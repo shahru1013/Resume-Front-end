@@ -1,4 +1,3 @@
-//Messy but Working 😀
 
 *{
 	margin: 0;
@@ -143,7 +142,6 @@ html,body{
 	margin-left: 10px;
 }
 
-//here
 }
 .mbody{
 	position: relative;
@@ -181,11 +179,9 @@ html,body{
 	position: absolute;
 	height: 200px;
 	width: 100%;
-    margin-top: 8%;
+        margin-top: 8%;
 	margin-left: 20%;
 	background-color: #BDC3C7 ;
-	margin-right: auto;
-	margin-left: auto;
 	border-style: solid;
 	border-color: #85929E ;
 }
