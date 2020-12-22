@@ -167,6 +167,12 @@ html,body{
 	margin-top: 20px;
 	margin-left: 10px;
 }
+.solve-link > ul{
+	list-style-type: circle;
+	margin-right: 0px;
+	margin-left: 0%;
+}
+
 
 
 }
@@ -284,6 +290,9 @@ html,body{
 	margin-right: 20px;
 	background-color: #D5DBDB;
 
+}
+.sec4 li:hover{
+	cursor: pointer;
 }
 
 .navlist{
