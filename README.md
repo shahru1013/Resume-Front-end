@@ -1,2 +1,5 @@
 # Sample-Resume
-This is a sample design of a resume with HTML and CSS.
+This is a design of my resume with HTML and CSS.
+Display:
+![alt text](https://github.com/shahru1013/Resume/blob/main/ss1.PNG)
+![alt text](https://github.com/shahru1013/Resume/blob/main/ss2.PNG)
